@@ -52,7 +52,11 @@ This repository contains Python implementations of various root-finding methods 
 
 If you'd like to contribute improvements, bug fixes, or additional root-finding methods to this repository, feel free to submit a pull request.
 
+## Contact
 
+You can reach me via email at [lokeshdangi1045@gmail.com](mailto:lokeshdangi1045@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lokeshdangi/)
+
+Thank you for visiting my repository!
 
 
 
